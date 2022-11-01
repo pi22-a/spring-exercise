@@ -1,6 +1,5 @@
 package com.springboot.api.Dao;
 
-import com.springboot.api.domain.User;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Repository;
